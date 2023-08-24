@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AF.Search", "AF.Search\AF.Search.csproj", "{564EF5D9-AE4C-49A5-85D5-0E49AC66FB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchApp", "SearchApp\SearchApp.csproj", "{9D09BDD0-15B5-415E-8D76-A2B76121BDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564EF5D9-AE4C-49A5-85D5-0E49AC66FB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564EF5D9-AE4C-49A5-85D5-0E49AC66FB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564EF5D9-AE4C-49A5-85D5-0E49AC66FB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564EF5D9-AE4C-49A5-85D5-0E49AC66FB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D09BDD0-15B5-415E-8D76-A2B76121BDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D09BDD0-15B5-415E-8D76-A2B76121BDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D09BDD0-15B5-415E-8D76-A2B76121BDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D09BDD0-15B5-415E-8D76-A2B76121BDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E22C1EFC-344C-4847-AD6C-941680BCF11D}
+	EndGlobalSection
+EndGlobal
